@@ -1,0 +1,10 @@
+Neo4jEssentials - An Eclipse project which contain code examples from Chapter-1,2 and 4
+	Chapter-1 = Neo4jEssentials\src\main\java\neo4j\chapter_1
+	Chapter-2 = Neo4jEssentials\src\main\java\neo4j\chapter_2
+	Chapter-4 = Neo4jEssentials\src\main\java\neo4j\chapter_4
+
+MyNeo4jSamples - An Eclipse project which contain code examples from Chapter-5.
+Spring-Neo4j - An Eclipse roject which contain code examplrs from Chapter-6 and 8. 
+
+Note: - Chapter-3 and 7 does not have any Java code examples.
+
